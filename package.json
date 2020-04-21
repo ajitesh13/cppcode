@@ -1,13 +1,34 @@
 {
     "name": "cppcode",
     "displayName": "cppcode",
-    "description": "code snippets for cpp coders ",
+    "description": "code snippets for Competitve Coders ",
     "version": "0.0.1",
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#505050",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.44.0"
     },
+    "homepage": "https://github.com/Ajitesh13/cppcode",
+    "bugs": {
+        "url": "https://github.com/Ajitesh13/cppcode/issues",
+        "email": "aji.yash13@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ajitesh13/cppcode.git"
+    },
     "categories": [
         "Snippets"
+    ],
+    "keywords": [
+        "c++",
+        "cpp",
+        "#include",
+        "iostream",
+        "code"
     ],
     "contributes": {
         "snippets": [
