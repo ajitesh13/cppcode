@@ -59,6 +59,6 @@ This extension is applied to publish on [VS Code Extension Marketplace](https://
 
 #### GNU GPLv3
 
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. Get more information [here](https://choosealicense.com/licenses/gpl-3.0/)
 
 **Happy Coding!!!**
