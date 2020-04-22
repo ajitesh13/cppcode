@@ -34,14 +34,14 @@ git clone https://github.com/Ajitesh13/cppcode.git
 
 2. copy it into the `<user home>/.vscode/extensions` folder and restart Code (For Linux and Mac users, for windows search for `.vscode/extensions` and paste it there).
 
-   * For linux user, if cloned into `home` directory use the command to copy the cloned repo:
+* For linux user, if cloned into `home` directory use the command to copy the cloned repo:
 
 ```bash
 cp -r cppcode .vscode/extensions
 
 ```
 
-1. This extension is applied to publish on [VS Code Extension Marketplace](https://marketplace.visualstudio.com/vscode). So very soon you are going to find this extension there and can  directly download it.  
+This extension is applied to publish on [VS Code Extension Marketplace](https://marketplace.visualstudio.com/vscode). So very soon you are going to find this extension there and can  directly download it.  
 
 ## Edit your extension
 
@@ -53,6 +53,12 @@ cp -r cppcode .vscode/extensions
 ## Contribution to this project
 
 * Feel free to give a PR to improve this project, have a look over [CONTRIBUTING.md](CONTRIBUTING.md) for understanding this project anatomy.
-* Open a issue if you could discover a problem in the extension or for any new idea.  
+* Open a issue [here](https://github.com/Ajitesh13/cppcode/issues) if you could discover a problem in the extension or for any new idea.  
+
+## Licence
+
+#### GNU GPLv3
+
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 **Happy Coding!!!**
