@@ -6,7 +6,12 @@ The aim of this extension is reducing your code and debugging period and thus in
 
 ## Features
 
-Code snippet in equipped with basic structure of cpp code you would like to use while solving a problem in a competitve programming contest to make your coding fast and efficient.
+* Code snippet in equipped with basic structure of cpp code you would like to use while solving a problem in a competitve programming contest to make your coding fast and efficient.
+
+* All the debugging flags useful for a competitve programmer is also added in a comment in the code snippet. So no need to waste time on debugging silly mistakes in your code (You can directly use the command provided there to compile your cpp file and avoid silly errors, mainly runtime). :p
+
+* For more information on the provided g++ flags, please have a look [here](https://codeforces.com/blog/entry/15547)
+
 
 Note :- The code snippet is editable and anyone can configure this as per their needs
 
