@@ -29,7 +29,7 @@ No additonal requirements apart from Visual Studio Code. [Click Here](https://co
 1. To start using your extension with Visual Studio Code first clone the repo with the command:
 
 ```bash
-        git clone https://github.com/Ajitesh13/cppcode.git
+git clone https://github.com/Ajitesh13/cppcode.git
 ```
 
 2. copy it into the `<user home>/.vscode/extensions` folder and restart Code (For Linux and Mac users, for windows search for `.vscode/extensions` and paste it there).
@@ -37,7 +37,7 @@ No additonal requirements apart from Visual Studio Code. [Click Here](https://co
    * For linux user, if cloned into `home` directory use the command to copy the cloned repo:
 
 ```bash
-         cp -r cppcode .vscode/extensions
+cp -r cppcode .vscode/extensions
 
 ```
 
