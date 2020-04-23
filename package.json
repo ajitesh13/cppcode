@@ -3,7 +3,7 @@
     "displayName": "cppcode",
     "description": "code snippets for Competitve Coders ",
     "version": "0.0.1",
-    "license": "MIT",
+    "license": "GNU GPLv3",
     "galleryBanner": {
         "color": "#505050",
         "theme": "dark"
