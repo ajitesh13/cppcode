@@ -16,7 +16,7 @@ Node :- You can always edit the snippet according to your requirements and the e
 
 * Code snippet in equipped with basic structure of cpp code you would like to use while solving a problem in a competitve programming contest to make your coding fast and efficient.
 
-* All the debugging flags useful for a competitve programmer is also added in a comment in the code snippet. So no need to waste time on debugging silly mistakes in your code (You can directly use the command provided there to compile your cpp file and avoid silly errors, mainly runtime). :p
+* All the debugging flags useful for a competitve programmer is also added in a comment in the code snippet. So no need to waste time on debugging silly mistakes in your code (You can directly use the command provided there to compile your cpp file and avoid silly errors, mainly runtime/syntactical errors). :p
 
 * For more information on the provided g++ flags, please have a look [here](https://codeforces.com/blog/entry/15547)
 
@@ -59,6 +59,6 @@ This extension is applied to publish on [VS Code Extension Marketplace](https://
 
 #### GNU GPLv3
 
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. Get more information [here](https://choosealicense.com/licenses/gpl-3.0/)
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. Get more information [here](LICENSE)
 
 **Happy Coding!!!**
