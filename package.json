@@ -1,9 +1,10 @@
 {
     "name": "cppcode",
+    "publisher": "aji13",
     "displayName": "cppcode",
     "description": "code snippets for Competitve Coders ",
     "version": "0.0.1",
-    "license": "GNU GPLv3",
+    "license": "MIT",
     "galleryBanner": {
         "color": "#505050",
         "theme": "dark"
