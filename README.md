@@ -4,7 +4,7 @@ This is a simple extension for competitive programmers who enjoy coding using C+
 
 The aim of this extension is reducing your code and debugging period and thus increasing your pace in solving problems.
 
-If it helps leave a :star2:
+**If it helps please leave a** :star2:
 
 ## Usage
 
